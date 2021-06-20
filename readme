@@ -4,6 +4,24 @@
    Analysis of pollution levels in India
 ................................................
 
+This project contains detailed analysis of Air Pollution Levels in India and aims to use data mining techniques to accomplish the following:
+1. To find trends in the Air Pollution levels in various states of India over the
+years 2005 − 2014.
+2. To find the most polluted states in India with respect to SO2, NO2 and RSPM
+concentrations.
+3. To find the hotpots and coldspots of Air Pollution by comparing the Pollution
+levels in each state with it’s neighboring states using z-score and to classify
+the states as outliers and non-outliers using chi-score.
+4. To find a correlation between the trends in Air Pollution of each state with
+these possible factors- Number of Vehicles in the state, Number of Factories
+operating in the state and Population Density of the state.
+5. To cluster the states based on their pollution levels.
+
+Results:
+The followinf Cholopleth Maps enlists our results: 
+1. [https://deekshaarora05.github.io/Analysis-of-Air-Pollution-levels-in-India/Maps/chiscore-map.html](https://deekshaarora05.github.io/Analysis-of-Air-Pollution-levels-in-India/Maps/chiscore-map.html)
+2. [https://deekshaarora05.github.io/Analysis-of-Air-Pollution-levels-in-India/Maps/zscore-map.html](https://deekshaarora05.github.io/Analysis-of-Air-Pollution-levels-in-India/Maps/zscore-map.html)
+3. [https://deekshaarora05.github.io/Analysis-of-Air-Pollution-levels-in-India/Maps/2014mpc-map.html](https://deekshaarora05.github.io/Analysis-of-Air-Pollution-levels-in-India/Maps/2014mpc-map.html)
 Section 1. Files/Folders included:
 
 1.cleaning
